@@ -1,5 +1,5 @@
 
-### 愿你我都能在自己的时区里绽放光彩  [docsify官网](https://docsify.js.org/#/zh-cn/)  | [docsify各种配置查看](https://segmentfault.com/a/1190000017576714#articleHeader0)
+### 愿你我都能在自己的时区里绽放光彩  
 - 在时间上，纽约走在加州前面三个小时
 - 但加州并没有变慢。
 - 有人22岁就毕业了，
@@ -26,6 +26,8 @@
 - 难，别忘了梦想与坚持
 - 忙，别忘了读书与锻炼
 - 人生，就是一场长跑
+
+##### [docsify官网](https://docsify.js.org/#/zh-cn/)  | [docsify各种配置查看](https://segmentfault.com/a/1190000017576714#articleHeader0)
 
 
 
